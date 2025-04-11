@@ -17,4 +17,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                |___/ 
 ```
 
+Analysis Code and Data for Claudia A.F. Wascher, Gemini Waterhouse, Bret A. Beheim, "[Vocal mimicry in corvids](https://doi.org/10.1101/2025.03.26.645457)" bioRxiv 2025.03.26.645457
+
 art from https://emojicombos.com/
+
+
