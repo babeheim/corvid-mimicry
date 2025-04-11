@@ -1,0 +1,129 @@
+"scientific_name","bodymass","repertoire_combined","breeding_system","habitat_breath","trophic_niche","genus","mimicry","nr_predator","nr_nonpredator","nr_breedingseason","nr_outsidebreedingseason","mimicry_imputed1","mimicry_imputed2","mimicry_imputed3","mimicry_imputed4","mimicry_imputed5","mimicry_imputed6","mimicry_imputed7","mimicry_imputed8","mimicry_imputed9","mimicry_imputed10"
+"Aphelocoma californica","85.7","19","territorial pairs","generalist","omnivore","Aphelocoma",0,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0
+"Aphelocoma coerulescens","77.1","13","cooperative breeding","specialist","omnivore","Aphelocoma",1,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Aphelocoma insularis","116","11","territorial pairs","generalist","omnivore","Aphelocoma",0,NA,NA,NA,NA,1,0,1,0,0,1,1,0,0,1
+"Aphelocoma ultramarina","113.3","not reported","groups","specialist","omnivore","Aphelocoma",0,NA,NA,NA,NA,0,0,0,0,0,0,0,1,0,0
+"Aphelocoma unicolor","124.0","not reported","cooperative breeding","specialist","omnivore","Aphelocoma",0,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,0
+"Aphelocoma wollweberi","113.3","6","groups","specialist","omnivore","Aphelocoma",0,NA,NA,NA,NA,1,1,1,0,0,1,1,0,0,1
+"Aphelocoma woodhouseii","not reported","16","cooperative breeding","generalist","omnivore","Aphelocoma",0,NA,NA,NA,NA,1,0,1,0,0,0,0,1,1,1
+"Cissa chinensis","126.6","3","territorial pairs","generalist","omnivore","Cissa",0,NA,NA,NA,NA,0,0,1,1,1,0,0,1,0,0
+"Cissa hypoleuca","125.0","5","territorial pairs","specialist","omnivore","Cissa",1,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+"Cissa jefferyi","125.0","12","territorial pairs","specialist","invertivore","Cissa",0,NA,NA,NA,NA,1,1,1,1,1,1,0,1,1,1
+"Cissa thalassina","125.0","4","territorial pairs","specialist","invertivore","Cissa",0,NA,NA,NA,NA,1,1,1,0,1,1,1,1,0,0
+"Coloeus dauuricus","208.0","not reported","groups","hypergeneralist","omnivore","Coloeus",0,NA,NA,NA,NA,1,1,1,0,1,1,1,1,1,0
+"Coloeus monedula","246.0","10","groups","hypergeneralist","omnivore","Coloeus",1,2,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Corvus albicollis","894.0","3","territorial pairs","generalist","omnivore","Corvus",0,1,0,NA,NA,1,1,1,1,1,1,0,0,1,0
+"Corvus albus","524.0","10","territorial pairs","generalist","omnivore","Corvus",1,2,0,0,1,1,1,1,1,1,1,1,1,1,1
+"Corvus bennetti","389.0","4","groups","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,0,1,1,1,1,1,1,1,1
+"Corvus brachyrhynchos","448.8","21","groups","generalist","omnivore","Corvus",1,18,4,6,10,1,1,1,1,1,1,1,1,1,1
+"Corvus capensis","553.0","8","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,1,0,1,0,1,1,0
+"Corvus corax","928.0","30","territorial pairs","hypergeneralist","omnivore","Corvus",1,3,3,2,3,1,1,1,1,1,1,1,1,1,1
+"Corvus cornix","437.725","3","territorial pairs","hypergeneralist","omnivore","Corvus",1,0,1,5,6,1,1,1,1,1,1,1,1,1,1
+"Corvus corone","570.0","5","groups","hypergeneralist","omnivore","Corvus",1,3,0,1,3,1,1,1,1,1,1,1,1,1,1
+"Corvus coronoides","644.3","4","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,0,1,1,1,0,0,0,1,0
+"Corvus crassirostris","1135.0","4","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,0,1,0,0,1,1,1,1,0
+"Corvus cryptoleucus","533.5","5","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,0,1,0,1,1,1,1,1
+"Corvus edithae","524.0","7","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,0,0,0,0,1,1,0,1
+"Corvus enca","251.0","4","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,1,0,0,1,0,1,1
+"Corvus florensis","175.0","3","territorial pairs","specialist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,0,1,1,1,0,1,1,1
+"Corvus frugilegus","452.1","15","groups","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0
+"Corvus fuscicapillus","635.0","not reported","territorial pairs","specialist","frugivore","Corvus",0,NA,NA,NA,NA,0,1,0,1,1,0,1,1,1,1
+"Corvus hawaiiensis","518.8","24","territorial pairs","generalist","omnivore","Corvus",1,NA,NA,NA,NA,1,1,1,0,0,1,0,0,1,1
+"Corvus imparatus","221.0","not reported","groups","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,0,0,0,0,0,0,1
+"Corvus insularis","508.0","not reported","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,0,0,1,1,0,0,0,1,1
+"Corvus jamaicensis","338.0","3","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,0,1,0,1,1,1,0,1
+"Corvus kubaryi","249.9","4","territorial pairs","specialist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,1,0,0,1,0,1,1
+"Corvus leucognaphalus","401.0","3","territorial pairs","specialist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,1,0,1,0,1,0,1
+"Corvus macrorhynchos","513.1","not reported","territorial pairs","hypergeneralist","omnivore","Corvus",0,NA,NA,NA,NA,0,0,0,1,0,0,0,0,0,0
+"Corvus meeki","467.0","not reported","territorial pairs","specialist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,1,1,0,0,1,1,0
+"Corvus mellori","540.4","not reported","groups","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,0,1,0,1,0,0,1
+"Corvus moneduloides","277.4","not reported","groups","generalist","omnivore","Corvus",1,2,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Corvus nasicus","401.0","not reported","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,0,1,0,1,1,0,1,1
+"Corvus orru","508.0","87","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,1,0,0,1,0,0,1
+"Corvus ossifragus","284.6","10","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,0,1,0,1,0,0,1,1,1
+"Corvus palmarum","289.0","not reported","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,0,1,1,1,1,1,1
+"Corvus rhipidurus","611.0","4","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,0,0,1,1,0,1,1
+"Corvus ruficollis","573.5","3","groups","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,0,0,1,0,1,1,1,1
+"Corvus sinaloae","244.0","4","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,0,1,0,1,1,1,1
+"Corvus splendens","292.6","not reported","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,0,0,0,0,0,0,0,1,0
+"Corvus tasmanicus","676.3","3","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,0,1,1,0,1,1,0
+"Corvus torquatus","470.5","5","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,0,0,1,1,1,1,0
+"Corvus tristis","635.0","5","territorial pairs","generalist","frugivore","Corvus",0,NA,NA,NA,NA,0,1,1,1,0,0,1,0,0,1
+"Corvus typicus","175.0","3","territorial pairs","specialist","invertivore","Corvus",0,NA,NA,NA,NA,1,0,0,1,0,0,1,1,0,1
+"Corvus unicolor","175.0","4","territorial pairs","specialist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,0,0,0,0,1,1,1,1
+"Corvus validus","300.0","not reported","groups","generalist","frugivore","Corvus",0,NA,NA,NA,NA,1,1,1,1,1,0,1,0,0,1
+"Corvus violaceus","251.0","3","territorial pairs","generalist","omnivore","Corvus",0,NA,NA,NA,NA,1,1,1,1,1,0,1,0,1,0
+"Corvus woodfordi","467.0","not reported","not reported","specialist","omnivore","Corvus",0,NA,NA,NA,NA,0,1,1,1,1,1,1,1,1,0
+"Crypsirina cucullata","132.5","not reported","territorial pairs","generalist","invertivore","Crypsirina",0,NA,NA,NA,NA,1,1,1,1,1,1,1,0,0,0
+"Crypsirina temia","129.5","5","territorial pairs","specialist","omnivore","Crypsirina",0,NA,NA,NA,NA,1,0,1,1,0,1,0,1,0,1
+"Cyanocitta cristata","88.0","18","territorial pairs","generalist","omnivore","Cyanocitta",1,7,40,15,28,1,1,1,1,1,1,1,1,1,1
+"Cyanocitta stelleri","128.0","16","territorial pairs","generalist","omnivore","Cyanocitta",1,9,25,5,17,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax affinis","212.0","4","territorial pairs","generalist","frugivore","Cyanocorax",1,0,1,0,1,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax beecheii","193.0","5","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,0,1,0,0,0,1,0,1,0,0
+"Cyanocorax caeruleus","not reported","14","groups","specialist","not reported","Cyanocorax",1,1,1,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax cayanus","175.0","5","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,0,1,1,0,1,1,1,1,1,0
+"Cyanocorax chrysops","166.0","15","territorial pairs","generalist","invertivore","Cyanocorax",1,0,7,2,5,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax colliei","not reported","6","groups","generalist","omnivore","Cyanocorax",1,1,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax cristatellus","178.0","4","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,1,0,1,1,1,1,1,1,1,1
+"Cyanocorax cyanomelas","207.0","4","not reported","specialist","omnivore","Cyanocorax",0,NA,NA,NA,NA,0,1,1,1,0,1,0,0,1,0
+"Cyanocorax cyanopogon","146.0","not reported","territorial pairs","specialist","omnivore","Cyanocorax",1,0,2,0,1,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax dickeyi","181.0","10","groups","specialist","omnivore","Cyanocorax",1,2,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax formosus","not reported","13","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,1,0,1,1,1,1,1,1,1,0
+"Cyanocorax heilprini","172.0","6","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,1,1,1,1,1,1,1,0,0,0
+"Cyanocorax melanocyaneus","101.0","6","groups","specialist","invertivore","Cyanocorax",0,NA,NA,NA,NA,1,1,1,1,1,1,1,1,0,1
+"Cyanocorax morio","not reported","3","groups","specialist","not reported","Cyanocorax",0,NA,NA,NA,NA,1,1,0,1,1,1,1,0,0,1
+"Cyanocorax mystacalis","154.4","not reported","territorial pairs","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,1,1,0,1,1,0,0,1,0,1
+"Cyanocorax sanblasianus","109.0","7","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,1,1,0,1,1,1,1,1,0,1
+"Cyanocorax violaceus","262.0","6","groups","generalist","omnivore","Cyanocorax",0,NA,NA,NA,NA,0,1,1,0,1,1,0,0,1,0
+"Cyanocorax yncas","78.5","7","groups","generalist","omnivore","Cyanocorax",1,0,4,2,1,1,1,1,1,1,1,1,1,1,1
+"Cyanocorax yucatanicus","118.0","12","groups","generalist","omnivore","Cyanocorax",1,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+"Cyanolyca argentigula","200.0","5","groups","specialist","omnivore","Cyanolyca",0,NA,NA,NA,NA,1,1,1,1,0,1,1,1,1,1
+"Cyanolyca armillata","200.0","8","not reported","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,0,1,1,1,1,1,0,1,1,1
+"Cyanolyca cucullata","101.3","3","groups","specialist","omnivore","Cyanolyca",0,NA,NA,NA,NA,1,1,1,0,1,0,1,1,0,0
+"Cyanolyca mirabilis","52.4","4","not reported","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,1,1,1,1,0,1,0,1,0,0
+"Cyanolyca nanus","41.0","4","territorial pairs","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,1,1,1,0,1,1,1,1,1,0
+"Cyanolyca pulchra","101.3","5","groups","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,1,0,1,1,1,0,1,1,0,1
+"Cyanolyca pumilo","47.0","6","not reported","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,1,1,0,0,1,0,0,1,1,0
+"Cyanolyca turcosa","97.5","3","groups","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,1,0,1,1,1,1,0,1,1,1
+"Cyanolyca viridicyanus","119.8","6","not reported","specialist","invertivore","Cyanolyca",0,NA,NA,NA,NA,0,0,1,0,1,1,0,1,1,1
+"Cyanopica cooki","70.4","3","groups","generalist","omnivore","Cyanopica",0,NA,NA,NA,NA,1,1,1,1,0,0,0,0,1,0
+"Cyanopica cyanus","95.9","not reported","groups","generalist","omnivore","Cyanopica",0,NA,NA,NA,NA,1,0,1,0,1,1,1,0,0,0
+"Dendrocitta bayleii","102.0","not reported","territorial pairs","specialist","omnivore","Dendrocitta",0,NA,NA,NA,NA,1,1,0,1,1,1,1,1,1,1
+"Dendrocitta cinerascens","125.0","3","territorial pairs","generalist","omnivore","Dendrocitta",0,NA,NA,NA,NA,0,0,1,0,1,1,1,1,1,1
+"Dendrocitta formosae","102.7","not reported","territorial pairs","generalist","omnivore","Dendrocitta",0,NA,NA,NA,NA,1,1,1,1,1,1,1,0,0,1
+"Dendrocitta frontalis","100.0","not reported","territorial pairs","specialist","omnivore","Dendrocitta",0,NA,NA,NA,NA,1,1,0,1,1,0,1,1,1,1
+"Dendrocitta leucogastra","99.2","8","territorial pairs","specialist","omnivore","Dendrocitta",0,NA,NA,NA,NA,1,0,1,0,1,0,1,1,0,0
+"Dendrocitta occipitalis","95.3","not reported","not reported","generalist","omnivore","Dendrocitta",0,NA,NA,NA,NA,0,0,1,1,1,1,1,1,0,0
+"Dendrocitta vagabunda","100.0","not reported","territorial pairs","generalist","omnivore","Dendrocitta",0,NA,NA,NA,NA,0,1,1,0,1,1,0,1,1,0
+"Garrulus glandarius","159.5","3","territorial pairs","generalist","omnivore","Garrulus",1,142,209,100,190,1,1,1,1,1,1,1,1,1,1
+"Garrulus lanceolatus","97.7","8","territorial pairs","generalist","omnivore","Garrulus",1,2,1,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Garrulus lidthi","125.0","3","territorial pairs","specialist","omnivore","Garrulus",0,NA,NA,NA,NA,1,1,1,0,0,1,0,1,0,1
+"Gymnorhinus cyanocephalus","104.8","15","groups","specialist","omnivore","Gymnorhinus",0,NA,NA,NA,NA,0,0,1,1,0,0,1,1,1,1
+"Nucifraga caryocatactes","182.5","3","territorial pairs","generalist","granivore","Nucifraga",1,3,0,2,3,1,1,1,1,1,1,1,1,1,1
+"Nucifraga columbiana","129.8","6","territorial pairs","generalist","omnivore","Nucifraga",1,5,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Nucifraga multipunctata","191.0","4","territorial pairs","generalist","granivore","Nucifraga",0,NA,NA,NA,NA,0,1,1,1,1,0,0,0,1,1
+"Perisoreus canadensis","71.6","11","territorial pairs","specialist","omnivore","Perisoreus",1,3,5,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Perisoreus infaustus","84.4","14","groups","specialist","omnivore","Perisoreus",1,24,17,10,12,1,1,1,1,1,1,1,1,1,1
+"Perisoreus internigrans","102.0","2","groups","specialist","omnivore","Perisoreus",0,NA,NA,NA,NA,1,0,1,1,1,0,1,1,1,0
+"Pica asirensis","200.0","3","groups","generalist","omnivore","Pica",0,NA,NA,NA,NA,0,1,1,0,0,1,1,0,0,1
+"Pica bottanensis","not reported","3","territorial pairs","generalist","not reported","Pica",0,NA,NA,NA,NA,1,0,1,1,1,1,1,1,1,1
+"Pica hudsonia","177.1","14","territorial pairs","hypergeneralist","omnivore","Pica",1,3,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Pica mauritanica","217.5","not reported","territorial pairs","generalist","omnivore","Pica",0,NA,NA,NA,NA,1,1,1,1,0,1,1,0,1,0
+"Pica nuttalli","158.3","7","groups","generalist","omnivore","Pica",1,1,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Pica pica","217.5","3","territorial pairs","hypergeneralist","omnivore","Pica",1,4,2,0,8,1,1,1,1,1,1,1,1,1,1
+"Pica serica","not reported","3","territorial pairs","generalist","not reported","Pica",0,NA,NA,NA,NA,0,1,1,1,0,0,0,1,1,1
+"Platysmurus leucopterus","180.0","5","not reported","specialist","omnivore","Platysmurus",0,NA,NA,NA,NA,1,0,0,1,1,1,1,1,1,1
+"Podoces biddulphi","130.5","not reported","territorial pairs","specialist","omnivore","Podoces",0,NA,NA,NA,NA,0,1,1,0,1,1,1,1,0,1
+"Podoces hendersoni","120.5","not reported","territorial pairs","specialist","omnivore","Podoces",0,NA,NA,NA,NA,1,0,1,1,1,1,1,1,1,1
+"Podoces panderi","91.1","not reported","territorial pairs","specialist","omnivore","Podoces",0,NA,NA,NA,NA,1,1,0,1,0,1,0,0,1,1
+"Podoces pleskei","87.5","not reported","territorial pairs","specialist","omnivore","Podoces",0,NA,NA,NA,NA,1,0,1,1,1,0,1,0,1,1
+"Ptilostomus afer","128.0","not reported","groups","generalist","omnivore","Ptilostomus",0,NA,NA,NA,NA,1,0,1,1,1,1,0,0,1,1
+"Pyrrhocorax graculus","211.0","3","territorial pairs","generalist","invertivore","Pyrrhocorax",0,NA,NA,NA,NA,0,1,0,1,1,1,1,0,1,0
+"Pyrrhocorax pyrrhocorax","276.7","13","territorial pairs","generalist","invertivore","Pyrrhocorax",1,0,1,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Temnurus temnurus","138.0","7","territorial pairs","specialist","invertivore","Temnurus",0,NA,NA,NA,NA,1,1,1,0,0,1,1,0,0,1
+"Urocissa caerulea","257.0","4","groups","specialist","omnivore","Urocissa",0,NA,NA,NA,NA,0,0,1,1,1,0,1,1,1,1
+"Urocissa erythroryncha","151.5","5","groups","generalist","omnivore","Urocissa",1,4,6,2,3,1,1,1,1,1,1,1,1,1,1
+"Urocissa flavirostris","149.2","4","groups","generalist","omnivore","Urocissa",0,NA,NA,NA,NA,0,1,1,1,0,0,1,0,1,0
+"Urocissa ornata","196.0","6","territorial pairs","generalist","omnivore","Urocissa",1,1,0,NA,NA,1,1,1,1,1,1,1,1,1,1
+"Urocissa whiteheadi","200.0","4","not reported","specialist","omnivore","Urocissa",0,NA,NA,NA,NA,0,1,1,0,0,1,1,1,0,0
+"Zavattariornis stresemanni","130.0","6","groups","generalist","invertivore","Zavattariornis",0,NA,NA,NA,NA,1,0,1,0,1,0,1,1,0,0
